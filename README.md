@@ -2,7 +2,7 @@
 
 🔭 &nbsp;I’m a Front End Developer based in Xiamen.
 
-🌱 &nbsp;I’m a coding addicted that is focused on JavaScript, specifically in React and Vue. I like design, technology, reading and I ❤️ &nbsp;[GitHub](https://github.com/zhuowenli).
+🌱 &nbsp;I’m a coding addicted that is focused on JavaScript, specifically in React and Vue. I like design, technology and reading.
 
 <!--
 **zhuowenli/zhuowenli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
